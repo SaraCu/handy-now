@@ -23,7 +23,7 @@ export default function BasicGrid() {
                 <Grid item xs={0.5}>
                     <MyLocationIcon>Location</MyLocationIcon>
                 </Grid>
-                <Grid>
+                <Grid sx={{ p: "20px" }}>
                     <Paper
                         component="form"
                         sx={{
@@ -43,12 +43,15 @@ export default function BasicGrid() {
                         />
                         <IconButton
                             type="button"
-                            sx={{ p: "10px" }}
+                            sx={{ p: "10px", m: "5px" }}
                             aria-label="search"
                         >
                             <SearchIcon />
                         </IconButton>
                     </Paper>
+                </Grid>
+                <Grid className="Search-Bar-Description">
+                    <p>Use current location</p>
                 </Grid>
             </Grid>
         </Box>
