@@ -1,6 +1,6 @@
 import React from "react";
 import Box from "@mui/material/Box";
-import logo from "./img/logo.png";
+import logo from "./img/logo2.png";
 
 function Logo() {
     return (

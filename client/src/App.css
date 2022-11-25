@@ -11,19 +11,22 @@
 }
 
 .App-Logo {
-    height: 50vh;
+    height: 20vh;
+}
+
+.App-Hero {
+    height: 40vh;
 }
 
 .Hero-section {
     text-align: center;
-    height: 30vw;
+    padding: 50px;
     border: 1px dashed gray;
 }
 
 .App-Search-Bar {
     text-align: center;
 }
-
 /* .App-logo {
     height: 40vmin;
     pointer-events: none;
