@@ -1,0 +1,22 @@
+[
+    {
+        "logo": "../src/assets/electrician-icon.png",
+        "category": "Electricians"
+    },
+    {
+        "logo":"../src/assets/mechanic-icon.png",
+        "category": "Mechanics"
+    },
+    {
+        "logo":"../src/assets/painter-icon.png",
+        "category": "Painters"
+    },
+    {
+        "logo":"../src/assets/it-repair-icon.png",
+        "category": "PC Repairs"
+    },
+    {
+        "logo":"../src/assets/plumber-icon.png",
+        "category":"Plumbers"
+    }
+]

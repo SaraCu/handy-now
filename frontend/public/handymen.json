@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Marc Power",
+        "address":"Ive Andrica 5",
+        "rating": 4
+    },
+    {
+        "name": "James Bolt",
+        "address":"Jovana Jovanovica Zmaja 4/26",
+        "rating": 3
+    },
+    {
+        "name":"Anna Spark",
+        "address": "Djure Jaksica 7b",
+        "rating": 5
+    }
+]
